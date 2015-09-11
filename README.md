@@ -151,7 +151,6 @@ en.yml
 en.json
 en_us.yml
 en-us.yml
-en/us.yml
 en_us/someName.yml
 someDir/en_us/someName.yml
 ```
